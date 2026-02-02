@@ -1,1 +1,2 @@
 [2026-02-02 10:37:56] Alerta: Prueba manual
+[2026-02-02 10:45:50] Alerta: 02/02/2026-10:45:50.762607  [**] [1:1000014:1] ALERTA CRÍTICA: Intento de Shell Inversa (Bash) detectado [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.6.151:58006 -> 192.168.6.155:80
