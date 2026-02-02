@@ -1,2 +1,4 @@
 [2026-02-02 10:37:56] Alerta: Prueba manual
 [2026-02-02 10:45:50] Alerta: 02/02/2026-10:45:50.762607  [**] [1:1000014:1] ALERTA CRÍTICA: Intento de Shell Inversa (Bash) detectado [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.6.151:58006 -> 192.168.6.155:80
+[2026-02-02 10:48:55] Alerta: 02/02/2026-10:48:55.008230  [**] [1:1000001:1] PING detectado [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+[2026-02-02 10:48:55] Alerta: 02/02/2026-10:48:55.018381  [**] [1:1000001:1] PING detectado [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:0a00:27ff:fe5e:bcef:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
